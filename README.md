@@ -12,8 +12,8 @@ For the first step, pull this repo into your local machine and then go to that f
 <img width="1053" alt="image" src="https://user-images.githubusercontent.com/42090252/163710555-3e72e214-6403-4fbb-b4a3-73dcc9d64697.png">
 <img width="1049" alt="image" src="https://user-images.githubusercontent.com/42090252/163710597-75f93dcc-5a22-440a-b03d-647f56bc6d2e.png">
 
-cmd : **docker-compose up -d**__ -> for up docker compose in background
-for check the docker container is up, can check with **docker ps**__ or docker container ls -a and for the images _**docker images**_. 
+cmd : _**docker-compose up -d**_ -> for up docker compose in background
+for check the docker container is up, can check with _**docker ps**_ or docker container ls -a and for the images _**docker images**_. 
 Or also can check in docker desktop
 
 <img width="838" alt="image" src="https://user-images.githubusercontent.com/42090252/163711305-39666d73-6337-40e0-8e9b-e43719036c79.png">
