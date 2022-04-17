@@ -1,0 +1,105 @@
+semester_id,week_id,course_name,attendance_pct
+1.0,3,Applied Data Science,0.75
+1.0,7,Applied Data Science,1.0
+2.0,18,Python Programming,0.5
+1.0,12,Statistic,0.5
+1.0,11,Data Mining,1.0
+2.0,21,Python Programming,0.5
+2.0,16,Data Mining,1.0
+1.0,6,Applied Data Science,1.0
+2.0,17,Data Mining,1.0
+1.0,8,Applied Data Science,0.75
+1.0,1,Applied Data Science,1.0
+1.0,10,Data Mining,1.0
+1.0,4,Statistic,0.5
+1.0,5,Data Mining,1.0
+1.0,2,Data Mining,1.0
+1.0,13,Introduction to Applied Machine Learning,0.8333333333333334
+2.0,15,Data Mining,1.0
+1.0,8,Statistic,1.0
+1.0,13,Data Mining,1.0
+1.0,9,Statistic,0.5
+2.0,26,Data Mining,1.0
+2.0,15,Introduction to Applied Machine Learning,1.0
+2.0,14,Python Programming,1.0
+1.0,6,Statistic,1.0
+1.0,10,Introduction to Applied Machine Learning,0.8333333333333334
+1.0,3,Data Mining,1.0
+1.0,7,Statistic,0.5
+2.0,24,Data Mining,1.0
+1.0,7,Data Mining,1.0
+2.0,19,Data Mining,0.75
+1.0,10,Applied Data Science,0.75
+1.0,11,Statistic,0.5
+2.0,17,Natural Language Processing,1.0
+2.0,16,Python Programming,0.5
+2.0,14,Data Mining,0.75
+1.0,1,Data Mining,1.0
+1.0,12,Applied Data Science,0.75
+1.0,3,Introduction to Applied Machine Learning,1.0
+2.0,25,Python Programming,0.5
+1.0,4,Applied Data Science,0.75
+1.0,8,Introduction to Applied Machine Learning,1.0
+1.0,5,Statistic,0.5
+2.0,24,Python Programming,1.0
+2.0,22,Natural Language Processing,1.0
+1.0,1,Introduction to Applied Machine Learning,0.8333333333333334
+1.0,4,Introduction to Applied Machine Learning,0.5
+2.0,23,Python Programming,1.0
+2.0,22,Data Mining,1.0
+1.0,10,Statistic,1.0
+1.0,11,Applied Data Science,0.75
+2.0,19,Introduction to Applied Machine Learning,1.0
+2.0,21,Data Mining,1.0
+1.0,2,Introduction to Applied Machine Learning,1.0
+2.0,17,Introduction to Applied Machine Learning,1.0
+1.0,4,Data Mining,1.0
+2.0,25,Natural Language Processing,1.0
+2.0,24,Introduction to Applied Machine Learning,1.0
+1.0,9,Data Mining,1.0
+2.0,24,Natural Language Processing,1.0
+1.0,6,Introduction to Applied Machine Learning,0.8333333333333334
+1.0,13,Applied Data Science,1.0
+2.0,15,Natural Language Processing,1.0
+2.0,26,Natural Language Processing,1.0
+2.0,16,Introduction to Applied Machine Learning,1.0
+2.0,15,Python Programming,1.0
+1.0,5,Applied Data Science,0.75
+2.0,17,Python Programming,1.0
+2.0,20,Natural Language Processing,1.0
+1.0,12,Data Mining,1.0
+1.0,1,Statistic,1.0
+1.0,2,Applied Data Science,1.0
+1.0,8,Data Mining,1.0
+2.0,22,Python Programming,0.5
+2.0,20,Introduction to Applied Machine Learning,1.0
+2.0,20,Python Programming,0.5
+2.0,18,Introduction to Applied Machine Learning,1.0
+1.0,13,Statistic,1.0
+2.0,26,Introduction to Applied Machine Learning,1.0
+2.0,14,Introduction to Applied Machine Learning,1.0
+2.0,19,Python Programming,1.0
+1.0,5,Introduction to Applied Machine Learning,1.0
+1.0,3,Statistic,0.5
+2.0,19,Natural Language Processing,1.0
+1.0,9,Applied Data Science,0.75
+2.0,25,Introduction to Applied Machine Learning,1.0
+2.0,21,Introduction to Applied Machine Learning,1.0
+2.0,23,Natural Language Processing,1.0
+2.0,23,Introduction to Applied Machine Learning,1.0
+2.0,22,Introduction to Applied Machine Learning,1.0
+1.0,9,Introduction to Applied Machine Learning,1.0
+2.0,18,Data Mining,1.0
+2.0,26,Python Programming,0.5
+2.0,21,Natural Language Processing,1.0
+2.0,18,Natural Language Processing,1.0
+1.0,11,Introduction to Applied Machine Learning,0.6666666666666666
+2.0,23,Data Mining,1.0
+2.0,20,Data Mining,1.0
+1.0,6,Data Mining,1.0
+2.0,14,Natural Language Processing,1.0
+2.0,25,Data Mining,1.0
+1.0,2,Statistic,1.0
+1.0,12,Introduction to Applied Machine Learning,0.8333333333333334
+1.0,7,Introduction to Applied Machine Learning,0.6666666666666666
+2.0,16,Natural Language Processing,1.0
