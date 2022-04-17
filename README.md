@@ -3,7 +3,7 @@ This Repository for Ingestion Data from CSV
 
 The output is **report_attendance.csv**
 
-for run this script need instal docker and docker desktop (_if u need UI_), trhid apps for query database, 
+for run this script need install docker and docker desktop (_if u need UI_), third apps for query database, 
 and python3 (_if want testing outside docker_).
 In this case, using database postgresql (_pull images by docker_).
 
@@ -31,7 +31,7 @@ or can re-run container in docker desktop for the pipeline
 <img width="1267" alt="image" src="https://user-images.githubusercontent.com/42090252/163711457-a7cf6d7b-3096-46a4-a887-4ac1813160e6.png">
 
 and make sure the cointainer status already running and Exited (0) -> for the cointainer run python script for ingestion with 
-  cmd : **docker container ls -a**__
+  cmd : _**docker container ls -a**_
 
 for check the data in database use third party app for connect. and create connection to postgresDB with
 _**host = localhost
@@ -48,7 +48,7 @@ there 3 schema in that database
   - dataset -> schema for update data and query able (have some cleansing)
   - anayltics - schema for datawarehouse layer and datamart layer
   
-docker run test-univ_db_report_to_csv this cmd for generate output csv, after run this cmd need copy file to see the file in local env.
+**_docker run test-univ_db_report_to_csv_** this cmd for generate output csv, after run this cmd need copy file to see the file in local env.
   cmd : docker cp <container name>:<path container> <destination path>
   <img width="1097" alt="image" src="https://user-images.githubusercontent.com/42090252/163711851-fa572056-a737-48e0-8b5d-fd29e32cdabb.png">
 
