@@ -24,7 +24,8 @@ Acctually this script handle for the all script run after _**docker-compose up**
   -  docker run test-univ_db_report_to_csv
   
 or can re-run container in docker desktop for the pipeline
-<img width="838" alt="image" src="https://user-images.githubusercontent.com/42090252/163711358-cf20d424-eb79-4c15-8b98-bbcd41e0164b.png">
+<img width="1267" alt="image" src="https://user-images.githubusercontent.com/42090252/163711457-a7cf6d7b-3096-46a4-a887-4ac1813160e6.png">
+
 
 
 <img width="737" alt="image" src="https://user-images.githubusercontent.com/42090252/163710979-e1aa4213-10eb-42a4-893a-c7de0d3fa933.png">
