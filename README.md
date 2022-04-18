@@ -51,6 +51,10 @@ there 3 schema in that database
 **_docker run test-univ_db_report_to_csv_** this cmd for generate output csv, after run this cmd need copy file to see the file in local env.
   cmd : docker cp <container name>:<path container> <destination path>
   <img width="1097" alt="image" src="https://user-images.githubusercontent.com/42090252/163711851-fa572056-a737-48e0-8b5d-fd29e32cdabb.png">
+  
+  
+  
+ for the stop and remove the container with cmd : _**docker-compose down**_
 
   
 
